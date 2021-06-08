@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+
+*.py[cod]
+*$py.class
+dev_env/
+dev-env/
+dev_new/
+env/
+node_modules/
+settings/__pycache__
+webservices/__pycache__
