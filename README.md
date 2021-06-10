@@ -1,9 +1,9 @@
-This is a short project regarding students marking sytem.
+# This is a short project regarding students marking sytem.
 
 # Clone the code in your directory
 
 # Open command prompt/terminal
-# Go to project directory (folder where you have colone dthe code)
+# Go to project directory (folder where you have cloned the code)
 # Then Run the following codes
 	
 	docker-compose build
@@ -11,15 +11,13 @@ This is a short project regarding students marking sytem.
 	docker-compose up -d
 	docker-compose ps
 
-# Baam!!!!! Now the project should be running
+# Baam! Now the project should be running
 
-***********************************************************
-Note: Change Database settings according to your DB server
-***********************************************************
+*************************************************************
+# Note: Change Database settings according to your DB server
 
-***********************************************************
-Note: For API documentation, follow this URL:
-
+# Note: For API documentation, follow this URL:
 https://documenter.getpostman.com/view/6174077/TzeRpVPL
-***********************************************************
+*************************************************************
+
 
