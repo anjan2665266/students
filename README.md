@@ -1,4 +1,4 @@
-# students
+This is a short project regarding students marking sytem.
 
 # Clone the code in your directory
 
